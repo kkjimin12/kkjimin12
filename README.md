@@ -2,7 +2,7 @@
 
 
 <table>
-  <tr>
+  <tr height=150&fontSize=20>
     <td>Studying ✏️</td>
     <td>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
