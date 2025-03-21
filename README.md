@@ -5,7 +5,7 @@
   <tr height=100&fontSize=20&textAlign=center>
     <td fontWeight=700>Studying ✏️</td>
     <td>
-      <img src="https://img.shields.io/badge/html5-%E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
       <img src="https://img.shields.io/badge/oracle-%23F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/gradle-%02303A.svg?&style=for-the-badge&logo=git&logoColor=white" />
