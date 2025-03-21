@@ -2,8 +2,8 @@
 
 
 <table>
-  <tr>
-    <td fontSize=50> Studying ✏️ </td>
+  <tr height=100&textAlign=center>
+    <td fontSize=50px> Studying ✏️ </td>
     <td>
       <img src="https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
