@@ -15,7 +15,7 @@
   <tr height=100&fontSize=20&textAlign=center>
     <td fontWight=700>Tools 🔧</td>
     <td>
-      <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+      <img src="https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
     </td>
   </tr>
 </table>
